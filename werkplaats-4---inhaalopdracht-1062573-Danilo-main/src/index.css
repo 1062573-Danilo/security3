@@ -1,0 +1,12 @@
+body {
+  
+  font-family: "Roboto", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom, #000000, #00a6ff);
+  margin: 0;
+  padding: 0;
+}
+code {
+  font-family: "Source Code Pro", Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
